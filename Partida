@@ -1,0 +1,19 @@
+
+Autor: Michael Alfredo Rodriguez Mogollo
+Prueba para Ingeniero de datos
+
+Partida de Ping Pong (OBLIGATORIO)
+Ana, José y Juan, se fueron una tarde a jugar ping-pong, cada uno jugó la siguiente
+cantidad de partidos. Cada que un jugador pierde una partida arranca otra con el jugador en
+espera. Ejemplo: Ana vs Juan (Ana gana) - juega (Ana vs Juan), el ganador siempre juega
+contra el jugador que está en espera y así sucesivamente hasta completar el número de
+partidas que se muestran a continuación.
+Basado en los datos de los partidos jugados realizar lo siguiente:
+● ¿Quién perdió el segundo partido?
+● Liste el resultado del primer punto y los partidos perdidos en el orden correcto, en un
+JSON.
+JUGADOR PARTIDOS JUGADOS
+Ana 17
+José 15
+Juan 10
+
