@@ -1,0 +1,144 @@
+{
+    "jugadores": [
+      {
+        "jugador": "Ana",
+        "partidosjugados": "17"
+      },
+      {
+        "jugador": "José",
+        "partidosjugados": "15"
+      },
+      {
+        "jugador": "Juan",
+        "partidosjugados": "10"
+      }
+    ],
+    "Partidas": [
+      {
+        "Partida": 1,
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 2,
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 3,
+        "participantes": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 4,
+        "participanteUno": "Jose",
+        "participanteDos": "Juan",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 5,
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 6,
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 7,
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 8,
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 9,
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 10,
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 11,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 12,      
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 13,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 14,      
+        "participanteUno": "Jose",
+        "participanteDos": "Juan",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 15,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 16,      
+        "participanteUno": "Ana",
+        "participanteDos": "Juan",
+        "Ganador": "Ana"
+      },
+      {
+        "Partida": 17,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 18,      
+        "participanteUno": "Jose",
+        "participanteDos": "Juan",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 19,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 20,      
+        "participanteUno": "Jose",
+        "participanteDos": "Juan",
+        "Ganador": "Jose"
+      },
+      {
+        "Partida": 21,      
+        "participanteUno": "Ana",
+        "participanteDos": "Jose",
+        "Ganador": "Jose"
+      }
+    ]
+  }
